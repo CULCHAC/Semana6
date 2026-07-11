@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 147
+ETag: W/"93-2A1q2M4v44/dTWiLZ7gv66VIFWw"
+Date: Sat, 11 Jul 2026 20:32:04 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Recolección Basura",
+  "descripcion": "La comunidad reporta que no se recoje la basura hace varios días."
+}
